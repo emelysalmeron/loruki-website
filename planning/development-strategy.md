@@ -8,7 +8,7 @@ A simple little website about trees.
 
 ## Wireframe
 
-![wireframe](./wireframe.gif)
+![wireframe](./wireframe.gif)  
 
 ---
 
@@ -23,8 +23,8 @@ A simple little website about trees.
    - [ ] feautre Menu
    - [ ] Docs
    
-- **Showcase with request form**(**_milestone_**).
-
+- **Showcase with request form**(**_milestone_**).  
+  
   - [ ] Registration Form.(issue).
   
 - **Stats of loruki platform**(**_milestone_**).
@@ -76,39 +76,39 @@ A simple little website about trees.
     - [ ] Features about Loruki Platform.(***_issue_**)
 - **Footer** (**_milestone_**).
    - [ ] Loruki copyright details.(**_issue_**)
-   - [ ] website menu (_issue_)
+   - [ ] website menu (**_issue_**)
    - [ ] social Networking icons.(**_issue_**)
   
 
 ### CSS (_label_)
 
-  - the "features-head" class (_issue_)
-  - the "features-sub-head" class (_issue_)
-  - the "features-main" class (_issue_)
+  - the "features-head" class (**_issue_**)
+  - the "features-sub-head" class (**_issue_**)
+  - the "features-main" class (**_issue_**)
   
 ---
 
-## Document Page (_milestone_)
+## Document Page (**_milestone_**)
 
 ### HTML (_label_)
-- Nav bar (_milestone_)
-   - [ ] Home menu  (_issue_)
-   - [ ] feautre Menu(_issue_)
-   - [ ] Docs(_issue_)
+- Nav bar (**_milestone_**)
+   - [ ] Home menu  (**_issue_**)
+   - [ ] feautre Menu(**_issue_**)
+   - [ ] Docs(**_issue_**)
     
-- Docs main (_milestone_)
-   - [ ] Loruki copyright details.(_issue_)
-  - [ ] website menu (_issue_)
-  - [ ] social Networking icons.(_issue_)
+- Docs main (**_milestone_**)
+   - [ ] Loruki copyright details.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
 
-- Footer(_milestone_).
-  - [ ] Loruki copyright details.(_issue_)
-  - [ ] website menu (_issue_)
-  - [ ] social Networking icons.(_issue_)
+- Footer(**_milestone_**).
+  - [ ] Loruki copyright details.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
 
 
 ### CSS (_label_)
- - the "docs-main" class (_issue_)
+ - the "docs-main" class (**_issue_**)
 ---
 
 ## Finishing Touches (_milestone_)
