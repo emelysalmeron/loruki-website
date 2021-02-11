@@ -17,67 +17,67 @@ A simple little website about trees.
 ### HTML (_label_)
 
 
-- A website Nav bar (_issue_). 
+- **A website Nav bar** (**_milestone_**). 
 
    - [ ] Home menu  
    - [ ] feautre Menu
    - [ ] Docs
    
-- **Showcase with request form**(_milestone_).
+- **Showcase with request form**(**_milestone_**).
 
   - [ ] Registration Form.(issue).
   
-- **Stats of loruki platform**(_milestone_).
+- **Stats of loruki platform**(**_milestone_**).
 
-  - [ ] Deployments, projects,Publish in grid formate.(_issue_)
+  - [ ] Deployments, projects,Publish in grid formate.(**_issue_**)
   
-- **CLI**(_milestone_).
+- **CLI**(**_milestone_**).
 
-  - [ ] Deploy in second card,easy to use card in In a grid format.(_issue_)
+  - [ ] Deploy in second card,easy to use card in In a grid format.(**_issue_**)
  
-- **cloud**(_milestone_)
+- **cloud**(**_milestone_**)
 
-  - [ ] cloud section with some fascinating word.(_issue_)
+  - [ ] cloud section with some fascinating word.(**_issue_**)
   
-- **Supported Language to loruki**(_milestone_).
+- **Supported Language to loruki**(**_milestone_**).
 
-  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure). (_issue_)
+  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure). (**_issue_**)
  
-- **Menu on footer**(_milestone_).
+- **Menu on footer**(**_milestone_**).
 
-  - [ ] Loruki copyright details.(_issue_)
-  - [ ] website menu (_issue_)
-  - [ ] social Networking icons.(_issue_)
+  - [ ] Loruki copyright details.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
 
-### CSS (_label_)
-- "navbar" class (_issue_).
-- "showcase" class (_issue_).
-- "stats" class (_issue_).
-- "cli" class (_issue_).
-- "Cloud" class (_issue_).
-- "languages" class (_issue_).
-- "footer" class (_issue_).
+### CSS (**_label_**)
+- "navbar" class (**_issue_**).
+- "showcase" class (**_issue_**).
+- "stats" class (**_issue_**).
+- "cli" class (**_issue_**).
+- "Cloud" class (**_issue_**).
+- "languages" class (**_issue_**).
+- "footer" class (**_issue_**).
 
  
 ---
 
-## Features page of Loruki website(_milestone_)
+## Features page of Loruki website(**_milestone_**)
 
 ### HTML (_label_)
 
-- **Nav bar** (_milestone_).
-    - [ ] Home menu(_issue_)  
-    - [ ] feautre Menu(_issue_)
-    - [ ] Docs(_issue_)
+- **Nav bar** (**_milestone_**).
+    - [ ] Home menu(**_issue_**)  
+    - [ ] feautre Menu(**_issue_**)
+    - [ ] Docs(**_issue_**)
     
--  **Head** (_milestone_).
-    - [ ] Details about Loruki platform.(_issue_)
-- **sub Head** (_milestone_).
-    - [ ] Features about Loruki Platform.(_issue_)
-- **Footer** (_milestone_).
-   - [ ] Loruki copyright details.(_issue_)
+-  **Head** (**_milestone_**).
+    - [ ] Details about Loruki platform.(**_issue_**)
+- **sub Head** (**_milestone_**).
+    - [ ] Features about Loruki Platform.(***_issue_**)
+- **Footer** (**_milestone_**).
+   - [ ] Loruki copyright details.(**_issue_**)
    - [ ] website menu (_issue_)
-   - [ ] social Networking icons.(_issue_)
+   - [ ] social Networking icons.(**_issue_**)
   
 
 ### CSS (_label_)
