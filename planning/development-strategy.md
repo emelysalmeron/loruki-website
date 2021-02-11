@@ -12,11 +12,11 @@ A simple little website about trees.
 
 ---
 
-## Site Home Page (_milestone_)
+## Loruki WebSite Home Page (_milestone_)
 
 ### HTML (_label_)
 
-- A website title for the tab (in the header of the document) (_issue_)
+
 - A website Nav bar (_issue_). 
 
    - [ ] Home menu  
