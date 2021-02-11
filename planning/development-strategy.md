@@ -23,31 +23,31 @@ A simple little website about trees.
    - [ ] feautre Menu
    - [ ] Docs
    
-- Showcase with request form(_issue_).
+- **Showcase with request form**(_milestone_).
 
-  - [ ] Registration Form.
+  - [ ] Registration Form.(issue).
   
-- Stats of loruki platform(_issue_).
+- **Stats of loruki platform**(_milestone_).
 
-  - [ ] Deployments, projects,Publish in grid formate.
+  - [ ] Deployments, projects,Publish in grid formate.(_issue_)
   
-- CLI(_issue_).
+- **CLI**(_milestone_).
 
-  - [ ] Deploy in second card,easy to use card in In a grid format. 
+  - [ ] Deploy in second card,easy to use card in In a grid format.(_issue_)
  
-- cloud(_issue_)
+- **cloud**(_milestone_)
 
-  - [ ] cloud section with some fascinating word.
+  - [ ] cloud section with some fascinating word.(_issue_)
   
-- Supported Language to loruki(_issue_).
+- **Supported Language to loruki**(_milestone_).
 
-  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure).
+  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure). (_issue_)
  
-- Menu on footer(_issue_).
+- **Menu on footer**(_milestone_).
 
-  - [ ] Loruki copyright details.
-  - [ ] website menu 
-  - [ ] social Networking icons.
+  - [ ] Loruki copyright details.(_issue_)
+  - [ ] website menu (_issue_)
+  - [ ] social Networking icons.(_issue_)
 
 ### CSS (_label_)
 - "navbar" class (_issue_).
@@ -64,18 +64,20 @@ A simple little website about trees.
 ## Features page of Loruki website(_milestone_)
 
 ### HTML (_label_)
-- Nav bar (_issue_).
-    - [ ] Home menu  
-    - [ ] feautre Menu
-    - [ ] Docs
--  Head (_issue_).
-    - [ ] Details about Loruki platform.
-- sub Head (_issue_).
-    - [ ] Features about Loruki Platform.
-- Footer (_issue_).
-   - [ ] Loruki copyright details.
-   - [ ] website menu 
-   - [ ] social Networking icons.
+
+- **Nav bar** (_milestone_).
+    - [ ] Home menu(_issue_)  
+    - [ ] feautre Menu(_issue_)
+    - [ ] Docs(_issue_)
+    
+-  **Head** (_milestone_).
+    - [ ] Details about Loruki platform.(_issue_)
+- **sub Head** (_milestone_).
+    - [ ] Features about Loruki Platform.(_issue_)
+- **Footer** (_milestone_).
+   - [ ] Loruki copyright details.(_issue_)
+   - [ ] website menu (_issue_)
+   - [ ] social Networking icons.(_issue_)
   
 
 ### CSS (_label_)
@@ -89,20 +91,20 @@ A simple little website about trees.
 ## Document Page (_milestone_)
 
 ### HTML (_label_)
-- Nav bar (_issue_)
-   - [ ] Home menu  
-   - [ ] feautre Menu
-   - [ ] Docs
+- Nav bar (_milestone_)
+   - [ ] Home menu  (_issue_)
+   - [ ] feautre Menu(_issue_)
+   - [ ] Docs(_issue_)
     
-- Docs main (_issue_)
-   - [ ] Loruki copyright details.
-  - [ ] website menu 
-  - [ ] social Networking icons.
+- Docs main (_milestone_)
+   - [ ] Loruki copyright details.(_issue_)
+  - [ ] website menu (_issue_)
+  - [ ] social Networking icons.(_issue_)
 
-- Footer(_issue_).
-  - [ ] Loruki copyright details.
-  - [ ] website menu 
-  - [ ] social Networking icons.
+- Footer(_milestone_).
+  - [ ] Loruki copyright details.(_issue_)
+  - [ ] website menu (_issue_)
+  - [ ] social Networking icons.(_issue_)
 
 
 ### CSS (_label_)
